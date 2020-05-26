@@ -1,0 +1,10 @@
+credentials
+
+*__pycache__/
+*.idea/
+
+# Taking out the Teams package components and zip for now
+color.png
+outline.png
+manifest.json
+Blackbaud CRM.zip
